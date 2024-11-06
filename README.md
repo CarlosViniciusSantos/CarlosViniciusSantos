@@ -11,4 +11,4 @@ Sinta-se à vontade para entrar em contato ou explorar meu trabalho!</p>
 <h1></h1>
  
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-vinicius-souza-e-santos-914661327)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)]([https://www.instagram.com/c.ss_pv/profilecard/?igsh=MTk4N2hrNXd0d3Ztcg==](https://www.instagram.com/devspiders?igsh=ZmhiNnExN2Z6bXNu))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/devspiders?igsh=ZmhiNnExN2Z6bXNu)
