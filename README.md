@@ -1,4 +1,4 @@
-<h3>Olá, eu sou o Carlos Vinicius. 👋 <h3/>
+# Olá, eu sou o Carlos Vinicius. 👋
 <p/>Sou um desenvolvedor com experiência em HTML, CSS, JavaScript e outras tecnologias. Meu foco é criar aplicações web dinâmicas e eficientes, sempre buscando a melhor experiência para o usuário. Estou constantemente aprimorando minhas habilidades e me mantendo atualizado com as tendências do setor.
 
 Além disso, valorizo a colaboração e o trabalho em equipe, e estou aberto a novas oportunidades e desafios que me permitam crescer profissionalmente.
